@@ -145,6 +145,4 @@ cd frontend
 npm run build
 ```
 
-## Author
 
-**Rabeya Noor** · [GitHub](https://github.com/rabeyanoor)
